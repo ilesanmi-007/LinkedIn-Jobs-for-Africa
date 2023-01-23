@@ -1,4 +1,3 @@
-# LinkedIn-Jobs-for-Africa
 
 ---
 
