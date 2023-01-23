@@ -29,3 +29,5 @@ Exploratory analysis are done on the following:
 In conclusion, one can see that there's commendable growth in the data analyst career in Africa. So, it's a good career to venture into. Also, there's a need for data analysts to find a way to infuse data analytics into other careers and professions to make work easier and also help make data-driven decisions.
 As stated earlier, the link to the powerBi visuals is here: https://app.powerbi.com/links/4cF0XuBX1i?ctid=5fe78ac1-1afe-4009-aa04-a71efb4a5042&pbi_source=linkShare
 LinkedIn: https://linkedin.com/in/samson-ilesanmi
+
+![image](https://user-images.githubusercontent.com/68794860/213948665-b517ccee-1c02-47f4-bae4-00017a68134c.png)
