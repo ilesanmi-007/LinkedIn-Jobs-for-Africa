@@ -5,7 +5,7 @@
 ### **Exploratory Analysis of Data Analyst Job Posting on LinkedIn**
 LinkedIn is the world's largest professional network on the internet. It can be used to find the right job or internship, connect and strengthen professional relationships, and learn the skills you need to succeed in any career. 
 I made an analysis of the job postings on LinkedIn related to data analyst jobs in Africa. The insights generated were extraordinarily insightful and could assist you in making decisions about your next big gig.
-I started by getting the data from Aditi. She mentioned some projects that data analysts ought to work on, so I dove into them.
+I started by getting the data from Aditi on LinkedIn. She mentioned some projects that data analysts ought to work on, so I dove into them.
 
 ---
 
@@ -31,3 +31,5 @@ As stated earlier, the link to the powerBi visuals is here: https://app.powerbi.
 LinkedIn: https://linkedin.com/in/samson-ilesanmi
 
 ![image](https://user-images.githubusercontent.com/68794860/213948665-b517ccee-1c02-47f4-bae4-00017a68134c.png)
+
+Thank you 😊
