@@ -3,13 +3,13 @@
 
 # *Data Analyst Job on LinkedIn*
 
-## ** Introduction**
+## **Introduction**
 ### **Exploratory Analysis of Data Analyst Job Posting on LinkedIn**
 LinkedIn is the world's largest professional network on the internet. It can be used to find the right job or internship, connect and strengthen professional relationships, and learn the skills you need to succeed in any career. 
 I made an analysis of the job postings on LinkedIn related to data analyst jobs in Africa. The insights generated were extraordinarily insightful and could assist you in making decisions about your next big gig.
 I started by getting the data from Aditi on LinkedIn. She mentioned some projects that data analysts ought to work on, so I dove into them.
 
-** Problem Statements **
+**Problem Statements**
 1. What industries in Africa hires Data Analyst most
 2. Number of Data analyst Job postings per country. Which country is the highest?
 3. What level are most of these jobs? Entry Level? Mid-Level? or Senior?
