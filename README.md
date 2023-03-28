@@ -18,9 +18,20 @@ I started by getting the data from Aditi on LinkedIn. She mentioned some project
 ---
 
 Data Cleaning
-After loading the data, the data was dirty having a column 
-Part code used to correct it is seen below
-Aside from this, many other cleaning methods are applied to the dataset. References to the Python code and GitHub will be made available at the end of this write-up.
+One of the major dirtiness in the data was a column--Criteria column. The column was made of a list of dictionaries. This list contains informations worth being on a column
+
+![image](https://user-images.githubusercontent.com/68794860/228386023-ce248f99-ed22-417b-8ba6-e4045a72eac2.png)
+
+I used Python to clean the column and to make each of those Dictionaries a column in the dataset
+
+**The code**
+---
+![image](https://user-images.githubusercontent.com/68794860/228386477-89b099be-7995-46f6-ba94-996b11fff7a6.png)
+
+**The result**
+---
+![image](https://user-images.githubusercontent.com/68794860/228386539-23d1d52b-53cc-4693-b49a-e46c27666c21.png)
+
 
 ---
 
