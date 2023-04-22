@@ -57,11 +57,10 @@ Data Analyst Job Posting by month | O
 :--------------------------------------------------------------------------------------------------------------:|:---------------------:
 ![image](https://user-images.githubusercontent.com/68794860/228690489-88c0f867-1312-46f2-be06-50b9141cfb7c.png)
 
-## Insights and Obserbations
+## Insights and Observations
 Observations And Insights | O
 :--------------------------------------------------------------------------------------------------------------:|:---------------------:
-![image](https://user-images.githubusercontent.com/68794860/228690873-cffee12c-fa1d-4468-b1d0-c1ceb33b6a3a.png)
-
+![image](https://user-images.githubusercontent.com/68794860/233807473-9b0bec24-6189-423c-9a18-4b7bf2453e71.png)
 
 # **Conclusion**
 In conclusion, one can see that there's commendable growth in the data analyst career in Africa. So, it's a good career to venture into. Also, there's a need for data analysts to find a way to infuse data analytics into other careers and professions to make work easier and also help make data-driven decisions.
@@ -69,6 +68,5 @@ In conclusion, one can see that there's commendable growth in the data analyst c
 The link to the powerBi visuals is [here](https://app.powerbi.com/view?r=eyJrIjoiZjljMGRiMGMtZjZlOC00OWYyLWE2ZjktMzE1OTU2ZWRjZDA0IiwidCI6IjQyMDA4ZmE2LWZmZjEtNGE5Ni1hZjY1LTdiODk5OTAyNDE4YyJ9)
 LinkedIn: https://linkedin.com/in/samson-ilesanmi
 
-![image](https://user-images.githubusercontent.com/68794860/228691033-d3939539-720c-449c-a327-ac24a6a8d3a1.png)
-
+![image](https://user-images.githubusercontent.com/68794860/233807501-50acfb3d-722b-4caf-8053-ba81ef2be159.png)
 Thank you 😊
